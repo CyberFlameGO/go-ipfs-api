@@ -32,5 +32,5 @@ require (
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
 	go.opencensus.io v0.22.4 // indirect
 	golang.org/x/crypto v0.0.0-20190611184440-5c40567a22f8 // indirect
-	golang.org/x/sys v0.0.0-20190626221950-04f50cda93cb // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
